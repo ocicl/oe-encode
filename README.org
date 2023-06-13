@@ -1,0 +1,10 @@
+* oe-encode
+
+An implementation of Progress' ENCODE() function in Common Lisp.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/mtstickney/oe-encode.git   |
+| commit  | f2ebad4  |
+| systems | oe-encode |
+|---------+-------------------------------------------|
+
