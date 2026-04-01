@@ -8,3 +8,4 @@ An implementation of Progress' ENCODE() function in Common Lisp.
 | systems | oe-encode |
 |---------+-------------------------------------------|
 
+ 
